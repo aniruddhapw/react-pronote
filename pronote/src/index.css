@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&family=Tilt+Neon&family=Tilt+Prism&display=swap');
+body {
+  margin: 0;
+  background-color: #3867d6;
+ 
+}
+
+.container{
+  display: flex;
+}
+.input{
+  margin: 10px;
+  font-family: Poppins
+}
+.input-text{
+  height: 400px;
+  width: 550px;
+  padding: 10px;
+  background-color: transparent;
+  border-color: #464646;
+  
+}
+.output{
+  margin: 10px;
+  font-family: Poppins;
+}
+.output-text{
+  background-color: #464646;
+  color: white;
+  height: 400px;
+  width: 550px;
+  padding: 10px;
+  font-family: Tilt Neon;
+  box-shadow: 5px 5px 5px black ;
+  
+}
